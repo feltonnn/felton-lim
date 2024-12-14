@@ -1,5 +1,5 @@
 import Hero from "./components/Hero"
-import Navbar from "./components/NavBar"
+import Navbar from "./components/Navbar"
 import Projects from "./components/Projects"
 import Technologies from "./components/Technologies"
 import Experience from "./components/Experience"
