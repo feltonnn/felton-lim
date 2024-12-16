@@ -12,7 +12,7 @@ export const EXPERIENCES = [
     year: "Dec 2024 - Present",
     role: "Program Management Intern",
     company: " Wavesparks",
-    description: "Support program execution, manage CRM systems, and oversee the company's social media presence. Responsibilities include coordinating operations, enhancing participant engagement, and driving online visibility through strategic content creation.",
+    description: "Support program execution for youth entrepreneurship initiatives, manage CRM systems, and oversee Wavesparks' social media presence. Responsibilities include coordinating operations, enhancing participant engagement, and driving online visibility through strategic content creation.",
     technologies: [],
   },
   {
